@@ -584,5 +584,5 @@ header nav ul li a:hover {
 ```
 
 ### OUTPUT
+![Screenshot (61)](https://github.com/Barath2910/advanced-css/assets/94176425/cfea2960-39b1-4ad5-a5cc-17b1b64027e1)
 
-![image](https://github.com/Karthikeyan21001828/Drrible-Clone/assets/93427303/3fdf1df7-7b71-4a64-8817-fa6f2cf61450)
